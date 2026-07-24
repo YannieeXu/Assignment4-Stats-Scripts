@@ -25,7 +25,7 @@ Assignment4-Stats-Scripts/
 
 ### Clone the Repository
 ```
-git clone https://github.com/your-username/Assignment4-Stats-Scripts.git
+git clone https://github.com/YannieeXu/Assignment4-Stats-Scripts.git
 cd Assignment4-Stats-Scripts
 ```
 
