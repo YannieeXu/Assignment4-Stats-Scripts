@@ -9,7 +9,7 @@ https://scipy-lectures.org/packages/statistics/index.html
 ## Contents
 ```
 Assignment4-Stats-Scripts/
-+-- notebooks/
++-- manual/
 |   +-- stats_python.ipynb  # Notebook with completed exercises and comments
 +-- ai/
 |   +-- stats_python.ipynb      # AI-generated statistical analysis
@@ -40,7 +40,7 @@ conda activate stats-env
 jupyter lab
 ```
 
-Then navigate to and open `notebooks/stats_python.ipynb`.
+Then navigate to and open `manual/stats_python.ipynb`.
 
 ## Notes
 - Each code block from the SciPy tutorial is placed in its own notebook cell.
