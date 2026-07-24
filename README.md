@@ -9,16 +9,16 @@ https://scipy-lectures.org/packages/statistics/index.html
 ## Contents
 ```
 Assignment4-Stats-Scripts/
-??- notebooks/
--   ??- stats_python.ipynb  # Notebook with completed exercises and comments
-??- ai/
--   ??- stats_python.ipynb      # AI-generated statistical analysis
--   ??- stats_extension.ipynb   # AI extension: bootstrap confidence intervals
--   ??- PROMPTS.md              # Prompts used for AI generation
-??- environment.yml  # Conda environment definition
-??- .gitignore
-??- README.md        # This file
-??- REFLECTION.md    # Assignment reflection
++-- notebooks/
+|   +-- stats_python.ipynb  # Notebook with completed exercises and comments
++-- ai/
+|   +-- stats_python.ipynb      # AI-generated statistical analysis
+|   +-- stats_extension.ipynb   # AI extension: bootstrap confidence intervals
+|   +-- PROMPTS.md              # Prompts used for AI generation
++-- environment.yml  # Conda environment definition
++-- .gitignore
++-- README.md        # This file
++-- REFLECTION.md    # Assignment reflection
 ```
 
 ## Getting Started
