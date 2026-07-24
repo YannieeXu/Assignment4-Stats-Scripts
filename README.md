@@ -1,4 +1,4 @@
-# Assignment 4 ? Python Statistics Walkthrough
+# Assignment 4 - Python Statistics Walkthrough
 
 This repository contains a Jupyter notebook that walks through statistical analysis in Python, based on exercises from the SciPy Lecture Notes. The goal is to practice applying common statistical and plotting techniques that will be useful in future data analysis labs.
 
@@ -9,16 +9,16 @@ https://scipy-lectures.org/packages/statistics/index.html
 ## Contents
 ```
 Assignment4-Stats-Scripts/
-??? notebooks/
-?   ??? stats_python.ipynb  # Notebook with completed exercises and comments
-??? ai/
-?   ??? stats_python.ipynb      # AI-generated statistical analysis
-?   ??? stats_extension.ipynb   # AI extension: bootstrap confidence intervals
-?   ??? PROMPTS.md              # Prompts used for AI generation
-??? environment.yml  # Conda environment definition
-??? .gitignore
-??? README.md        # This file
-??? REFLECTION.md    # Assignment reflection
+??- notebooks/
+-   ??- stats_python.ipynb  # Notebook with completed exercises and comments
+??- ai/
+-   ??- stats_python.ipynb      # AI-generated statistical analysis
+-   ??- stats_extension.ipynb   # AI extension: bootstrap confidence intervals
+-   ??- PROMPTS.md              # Prompts used for AI generation
+??- environment.yml  # Conda environment definition
+??- .gitignore
+??- README.md        # This file
+??- REFLECTION.md    # Assignment reflection
 ```
 
 ## Getting Started
