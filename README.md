@@ -18,7 +18,6 @@ Assignment4-Stats-Scripts/
 +-- environment.yml  # Conda environment definition
 +-- .gitignore
 +-- README.md        # This file
-+-- REFLECTION.md    # Assignment reflection
 ```
 
 ## Getting Started
